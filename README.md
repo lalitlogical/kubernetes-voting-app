@@ -1,2 +1,2 @@
 # kubernetes-voting-app
-kubernetes - example votinf app yaml
+kubernetes - example voting app yaml files
